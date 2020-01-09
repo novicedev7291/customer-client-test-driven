@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "first": "first",
+    "last": "last",
+    "email": "first@email.com"
+  },
+  {
+    "id": 2,
+    "first": "second",
+    "last": "last",
+    "email": "second@email.com"
+  }
+]
